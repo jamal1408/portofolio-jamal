@@ -1,4 +1,5 @@
-# portofolio-jamal
+index.html
+pindah index.html ke root
 <!DOCTYPE html>
 
 <html lang="en">
